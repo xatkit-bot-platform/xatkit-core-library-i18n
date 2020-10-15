@@ -51,6 +51,8 @@ The following languages are supported:
 | Language      | Locale Code |
 | ------------- | ----------- |
 | English (US)* | en_US       |
+| Spanish (Spain) | es_ES       |
+| Catalan | ca       |
 
 **Default language*: the library defaults to this language if the provided locale isn't supported or if a translation is missing.
 
