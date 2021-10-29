@@ -49,6 +49,7 @@ public class CoreLibraryI18n {
         this.WhoAreYou = createSimpleIntent("WhoAreYou");
         this.GoodBye = createSimpleIntent("GoodBye");
         this.Thanks = createSimpleIntent("Thanks");
+        this.Quit = createSimpleIntent("Quit");
     }
 
     /**
@@ -113,6 +114,8 @@ public class CoreLibraryI18n {
     public final IntentDefinition GoodBye;
 
     public final IntentDefinition Thanks;
+
+    public final IntentDefinition Quit;
 
 
     /*
