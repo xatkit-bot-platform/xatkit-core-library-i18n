@@ -54,6 +54,8 @@ The following languages are supported:
 | Spanish (Spain) | es_ES       |
 | Catalan | ca       |
 
+Note that ISO 639-1 for catalan is ca while ISO 639-2 is cat, we now support the two variations
+
 **Default language*: the library defaults to this language if the provided locale isn't supported or if a translation is missing.
 
 
