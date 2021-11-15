@@ -1,16 +1,15 @@
 # Xatkit Core Library I18n
-An internationalized version of Xatkit Core Library
+An internationalized version of the [Xatkit Core Intent Library](https://github.com/xatkit-bot-platform/xatkit/wiki/Core-Intent-Library)
 
 ## Installation
 
-This library is private. You need to build it manually to use it in your bots:
+You need to build it manually to use it in your bots:
 
 ```bash
 git clone https://github.com/xatkit-bot-platform/xatkit-core-library-i18n.git
 cd xatkit-core-library-i18n
 mvn clean install
 ```
-
 
 
 > 📚 Note you need to have Xatkit installed to compile this library, see [the wiki](https://github.com/xatkit-bot-platform/xatkit/wiki/Build-Xatkit) for detailed installation instructions.
@@ -52,6 +51,7 @@ The following languages are supported:
 | ------------- | ----------- |
 | English (US)* | en_US       |
 | Spanish (Spain) | es_ES       |
+| French (France) | fr_FR       |
 | Catalan | ca       |
 
 Note that ISO 639-1 for catalan is ca while ISO 639-2 is cat, we now support the two variations
